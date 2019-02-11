@@ -1,0 +1,785 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "j5ckrA_ZD7UC",
+   "etag": "MDTzXN9rIrw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j5ckrA_ZD7UC",
+   "volumeInfo": {
+    "title": "Spain",
+    "subtitle": "The culture",
+    "authors": [
+     "Noa Lior",
+     "Tara Steele"
+    ],
+    "publisher": "Crabtree Publishing Company",
+    "publishedDate": "2002-01",
+    "description": "Spain the culture celebrates Spain's folk music and dance, such as the traditional Flamenco, its art, and architecture. The holidays and festivals observed by the country's many religions including Catholics, Protestants, Muslims, and Jews are also highlighted.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0778793664"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780778793663"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=j5ckrA_ZD7UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=j5ckrA_ZD7UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=j5ckrA_ZD7UC&printsec=frontcover&dq=lior&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=j5ckrA_ZD7UC&dq=lior&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Spain.html?hl=&id=j5ckrA_ZD7UC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j5ckrA_ZD7UC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Spain the culture celebrates Spain&#39;s folk music and dance, such as the traditional Flamenco, its art, and architecture."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M34Qgsmk0_wC",
+   "etag": "xaQWHPlwosg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M34Qgsmk0_wC",
+   "volumeInfo": {
+    "title": "Excellence Every Day",
+    "subtitle": "Make the Daily Choice-- Inspire Your Employees and Amaze Your Customers",
+    "authors": [
+     "Lior Arussy"
+    ],
+    "publisher": "Information Today, Inc.",
+    "publishedDate": "2008",
+    "description": "Addressing all levels of the corporate ladder, from customer service to the CEO, this business-savvy handbook explores \"The Excellence Myth,\" revealing a new philosophy of excellence to help individuals and organisations reach their performance potential. Including both personal anecdotes as well as the results of a 23,000-participant study, the book details the keys to expanding leadership skills, improving employee satisfaction and job performance, and securing customer loyalty. The guide also explains how making \"The Daily Choice\" will empower employees to reach new heights of excellence, creating delightful customer experiences and achieving results from the bottom up.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "091096579X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780910965798"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 219,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M34Qgsmk0_wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M34Qgsmk0_wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=M34Qgsmk0_wC&printsec=frontcover&dq=lior&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=M34Qgsmk0_wC&dq=lior&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Excellence_Every_Day.html?hl=&id=M34Qgsmk0_wC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M34Qgsmk0_wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Addressing various levels of the corporate ladder, from customer service to the CEO, this handbook explores &quot;The Excellence Myth,&quot; revealing a philosophy of excellence to help individuals and organisations reach their performance potential."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ccwhs_fQSZsC",
+   "etag": "HBF6wXu9u6M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ccwhs_fQSZsC",
+   "volumeInfo": {
+    "title": "Remember Never To Forget: The Life Story of Israel Lior",
+    "subtitle": "The Story of Israel Lior",
+    "authors": [
+     "Lauren Lior-Liechtenstein"
+    ],
+    "publisher": "Xlibris Corporation",
+    "publishedDate": "2010-08-05",
+    "description": "When Israel arrived in Auschwitz he had the number 87584 tattooed on his arm like an animal. Those days in the camp seemed like the end of the world, with the madness of death and hatred everywhere. It was easy to cross the line between good and bad, to forget mercy, friendship, and forgiveness in order to survive, to steal the last morsel of bread from a dying man. But Israel did none of that; he kept his human dignity, optimism, and hope. He never forgot that in him was a man of value and honor. When they were freed and the spirit of revenge came over others, made them drunk with hatred and wanted blood, Israel kept his spirit and soul. He went to Israel to follow his Zionist dream and start a family. He did not become a bitter man but looked at the world with optimism, always moving with hope. He carried the pain of his story in his heart in silence until the day came to tell his story. This is the story of a man who remained a man in spite of everything. This is Israel’s legacy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781450098908"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1450098908"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 179,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ccwhs_fQSZsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ccwhs_fQSZsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Ccwhs_fQSZsC&pg=PA167&dq=lior&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Ccwhs_fQSZsC&dq=lior&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Remember_Never_To_Forget_The_Life_Story.html?hl=&id=Ccwhs_fQSZsC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Remember_Never_To_Forget_The_Life_Story-sample-epub.acsm?id=Ccwhs_fQSZsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Remember_Never_To_Forget_The_Life_Story-sample-pdf.acsm?id=Ccwhs_fQSZsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ccwhs_fQSZsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Story of Israel \u003cb\u003eLior\u003c/b\u003e Lauren \u003cb\u003eLior\u003c/b\u003e-Liechtenstein. two, full of patriotism, and \u003cbr\u003e\nlistened intently to David Ben Gurion&#39;s call for people to change their surnames to \u003cbr\u003e\nHebrew ones. My children Sarah and \u003cb\u003eLior\u003c/b\u003e had their part in the issue of changing \u003cbr\u003e\nour&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4qnUwdoaVbsC",
+   "etag": "aygxlyMBOwg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4qnUwdoaVbsC",
+   "volumeInfo": {
+    "title": "Pattern Classification Using Ensemble Methods",
+    "authors": [
+     "Lior Rokach"
+    ],
+    "publisher": "World Scientific",
+    "publishedDate": "2010",
+    "description": "Researchers from various disciplines such as pattern recognition, statistics, and machine learning have explored the use of ensemble methodology since the late seventies. Thus, they are faced with a wide variety of methods, given the growing interest in the field. This book aims to impose a degree of order upon this diversity by presenting a coherent and unified repository of ensemble methods, theories, trends, challenges and applications. The book describes in detail the classical methods, as well as the extensions and novel approaches developed recently. Along with algorithmic descriptions of each method, it also explains the circumstances in which this method is applicable and the consequences and the trade-offs incurred by using the method. Sample Chapter(s). Chapter 1: Introduction to Pattern Classification (246 KB). Contents: Introduction to Pattern Classification; Introduction to Ensemble Learning; Ensemble Classification; Ensemble Diversity; Ensemble Selection; Error Correcting Output Codes; Evaluating Ensembles of Classifiers. Readership: Researchers, advanced undergraduate and graduate students in machine learning and pattern recognition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789814271073"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9814271071"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "Algorithms"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4qnUwdoaVbsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4qnUwdoaVbsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4qnUwdoaVbsC&printsec=frontcover&dq=lior&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4qnUwdoaVbsC&dq=lior&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pattern_Classification_Using_Ensemble_Me.html?hl=&id=4qnUwdoaVbsC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Pattern_Classification_Using_Ensemble_Me-sample-pdf.acsm?id=4qnUwdoaVbsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4qnUwdoaVbsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book aims to impose a degree of order upon this diversity by presenting a coherent and unified repository of ensemble methods, theories, trends, challenges and applications."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PKY5yZioFmcC",
+   "etag": "4yxpdIxTnro",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PKY5yZioFmcC",
+   "volumeInfo": {
+    "title": "זהויות יהודיות בעידן רב־מודרני",
+    "authors": [
+     "Lior Ben-Chaim"
+    ],
+    "publisher": "Open University of Israel",
+    "publishedDate": "2006",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789650608996"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9650608990"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Jews"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PKY5yZioFmcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PKY5yZioFmcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "iw",
+    "previewLink": "http://books.google.com/books?id=PKY5yZioFmcC&printsec=frontcover&dq=lior&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=PKY5yZioFmcC&dq=lior&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/%D7%96%D7%94%D7%95%D7%99%D7%95%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%99%D7%95%D7%AA_%D7%91%D7%A2%D7%99%D7%93%D7%9F.html?hl=&id=PKY5yZioFmcC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PKY5yZioFmcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "במאה ה- 20 ובתקופתנו אנו. הממד הסינכרוני מבחין בזרמים ובניסוחים שונים שיש להם ביטוי בכל תקופה ותקופה. דיונים אלה מעוגנים בנסיבות ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "SDdKAgAAQBAJ",
+   "etag": "WjLdTxTNSIg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SDdKAgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Lior Surfrin Collection",
+    "authors": [
+     "Lior Surfrin"
+    ],
+    "publisher": "Lulu.com",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781409263500"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1409263509"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=SDdKAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=SDdKAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SDdKAgAAQBAJ&pg=PA128&dq=lior&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SDdKAgAAQBAJ&dq=lior&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Lior_Surfrin_Collection.html?hl=&id=SDdKAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SDdKAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eLior\u003c/b\u003e believes in attaining beauty through nature that&#39;s kind to mother Earth with \u003cbr\u003e\nhis secret abilities in research \u003cb\u003eLior\u003c/b\u003e We have taken the stateof-the-art cosmetics \u003cbr\u003e\nbased on Dead Sea minerals, plants and aromas. To achieve Vivienne a line of&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZQo8DQAAQBAJ",
+   "etag": "UF1EEe5F6eE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZQo8DQAAQBAJ",
+   "volumeInfo": {
+    "title": "Decomposition Methodology for Knowledge Discovery and Data Mining",
+    "subtitle": "Theory and Applications",
+    "authors": [
+     "Oded Maimon",
+     "Lior Rokach"
+    ],
+    "publisher": "World Scientific Publishing Company",
+    "publishedDate": "2005-05-30",
+    "description": "Data Mining is the science and technology of exploring data in order to discover previously unknown patterns. It is a part of the overall process of Knowledge Discovery in Databases (KDD). The accessibility and abundance of information today makes data mining a matter of considerable importance and necessity. This book provides an introduction to the field with an emphasis on advanced decomposition methods in general data mining tasks and for classification tasks in particular. The book presents a complete methodology for decomposing classification problems into smaller and more manageable sub-problems that are solvable by using existing tools. The various elements are then joined together to solve the initial problem. The benefits of decomposition methodology in data mining include: increased performance (classification accuracy); conceptual simplification of the problem; enhanced feasibility for huge databases; clearer and more comprehensible results; reduced runtime by solving smaller problems and by using parallel/distributed computation; and the opportunity of using different techniques for individual sub-problems.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789813106444"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9813106441"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ZQo8DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ZQo8DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ZQo8DQAAQBAJ&printsec=frontcover&dq=lior&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=ZQo8DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-ZQo8DQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 168.0,
+     "currencyCode": "ILS"
+    },
+    "retailPrice": {
+     "amount": 168.0,
+     "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=ZQo8DQAAQBAJ&rdid=book-ZQo8DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.68E8,
+       "currencyCode": "ILS"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.68E8,
+       "currencyCode": "ILS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/Decomposition_Methodology_for_Knowledge-sample-pdf.acsm?id=ZQo8DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ZQo8DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book provides an introduction to the field with an emphasis on advanced decomposition methods in general data mining tasks and for classification tasks in particular."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0t5ADgAAQBAJ",
+   "etag": "ejK+7IoB+8k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0t5ADgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Idea of Authorship in Copyright",
+    "authors": [
+     "Lior Zemer"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2017-03-02",
+    "description": "As information flows become increasingly ubiquitous in our post digital environment, the challenges to traditional concepts of intellectual property and the practices deriving from them are immense. The romantic understanding of the lone author as an endless source of new creations has to face these challenges. In order to do so, this work presents a collectivist model of intellectual property rights. The core argument is that since copyright works enjoy profit from significant public contribution, they should not be privately owned, but considered to be a joint enterprise, made real by both the public and author. It is argued that every copyright work depends on and is reflective of the author's exposure to externalities such as language, culture and the various social events and processes that occur in the public domain, therefore copyright works should not be regarded as exclusive private property. The study takes its organizing principle from John Locke, defining and proving the fatal flaw inherent in debates on copyright: on the one hand the copyright community is eager to arm authors with a robust property right over their creation, while on the other this community totally ignores the fact that the exposure of the individual to externalities is what makes him or her capable of creating material that is copyrightable. Just as Locke was against the absolute authority of kings, the expressed view of the study is against the exclusive right an author can claim.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781351888011"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1351888013"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0t5ADgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0t5ADgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0t5ADgAAQBAJ&printsec=frontcover&dq=lior&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0t5ADgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-0t5ADgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 241.0,
+     "currencyCode": "ILS"
+    },
+    "retailPrice": {
+     "amount": 241.0,
+     "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0t5ADgAAQBAJ&rdid=book-0t5ADgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.41E8,
+       "currencyCode": "ILS"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.41E8,
+       "currencyCode": "ILS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Idea_of_Authorship_in_Copyright-sample-epub.acsm?id=0t5ADgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Idea_of_Authorship_in_Copyright-sample-pdf.acsm?id=0t5ADgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0t5ADgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The romantic understanding of the lone author as an endless source of new creations has to face these challenges. In order to do so, this work presents a collectivist model of intellectual property rights."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "w5n0faZEBkcC",
+   "etag": "PojQm60TjKA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/w5n0faZEBkcC",
+   "volumeInfo": {
+    "title": "Information and Exclusion",
+    "authors": [
+     "Lior Jacob Strahilevitz"
+    ],
+    "publisher": "Yale University Press",
+    "publishedDate": "2011-07-19",
+    "description": "DIVNearly all communities are exclusive in some way. When race or wealth is the basis of exclusion, the homogeneity of a neighborhood, workplace, or congregation is controversial. In other instances, as with an artist's colony or a French language book club, exclusivity is tolerable or even laudable. In this engaging book, Lior Strahilevitz introduces a new theory for understanding how exclusivity is created and maintained in residential, workplace, and social settings, one that emphasizes information's role in facilitating exclusion. The book provides many colorful examples to show how lawmakers frequently misunderstand the subtle mechanics of exclusion, leaving enormous loopholes in the law. Strahilevitz focuses particular attention on today's changing dynamics of exclusion and discusses how technology presents new opportunities for governments to stamp out the most offensive exclusionary behaviors./div",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780300123043"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0300123043"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.4.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=w5n0faZEBkcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=w5n0faZEBkcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=w5n0faZEBkcC&dq=lior&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=w5n0faZEBkcC&dq=lior&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Information_and_Exclusion.html?hl=&id=w5n0faZEBkcC"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=w5n0faZEBkcC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this engaging book, Lior Strahilevitz introduces a new theory for understanding how exclusivity is created and maintained in residential, workplace, and social settings, one that emphasizes information&#39;s role in facilitating exclusion."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4fWHCwAAQBAJ",
+   "etag": "GWgbnI1xtb0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4fWHCwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Spice Companion",
+    "subtitle": "A Guide to the World of Spices",
+    "authors": [
+     "Lior Lev Sercarz"
+    ],
+    "publisher": "Clarkson Potter",
+    "publishedDate": "2016-11-01",
+    "description": "A stunning and definitive spice guide by the country’s most sought-after expert, with hundreds of fresh ideas and tips for using pantry spices, 102 never-before-published recipes for spice blends, gorgeous photography, and breathtaking botanical illustrations. Since founding his spice shop in 2006, Lior Lev Sercarz has become the go-to source for fresh and unusual spices as well as small-batch custom blends for renowned chefs around the world. The Spice Companion communicates his expertise in a way that will change how readers cook, inspiring them to try bold new flavor combinations and make custom spice blends. For each of the 102 curated spices, Lev Sercarz provides the history and origin, information on where to buy and how to store it, five traditional cuisine pairings, three quick suggestions for use (such as adding cardamom to flavor chicken broth), and a unique spice blend recipe to highlight it in the kitchen. Sumptuous photography and botanical illustrations of each spice make this must-have resource as beautiful as it is informative.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781101905470"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1101905476"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.3.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4fWHCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4fWHCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4fWHCwAAQBAJ&printsec=frontcover&dq=lior&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=4fWHCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-4fWHCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 145.0,
+     "currencyCode": "ILS"
+    },
+    "retailPrice": {
+     "amount": 145.0,
+     "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=4fWHCwAAQBAJ&rdid=book-4fWHCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.45E8,
+       "currencyCode": "ILS"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.45E8,
+       "currencyCode": "ILS"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com/books/download/The_Spice_Companion-sample-epub.acsm?id=4fWHCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4fWHCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Spice Companion communicates his expertise in a way that will change how readers cook, inspiring them to try bold new flavor combinations and make custom spice blends."
+   }
+  }
+ ]
